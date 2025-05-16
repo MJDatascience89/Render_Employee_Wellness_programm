@@ -42,6 +42,7 @@ Among these, the Random Forest classifier emerged as one of the best-performing 
 
 🧠 Key Insights
 Feature importance analysis revealed that Age, Family History, Care Options, Country, Number of Employees, Mental Health Consequences, and Physical Health Indicators play a significant role in predicting treatment needs.
+![Image](https://github.com/user-attachments/assets/22922ec2-b69a-43ea-96d6-45f69c7154a2)
 
 A single tree from the Random Forest was visualized to enhance model interpretability.
 
