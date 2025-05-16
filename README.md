@@ -26,6 +26,8 @@ New engineered features like support_score, flexibility_flag, and risk_score wer
 
 📊 Exploratory Data Analysis (EDA)
 Distributions of numerical variables such as Age and no_employees_encoded were visualized using histograms.
+![Image](https://github.com/user-attachments/assets/7f310f07-95ed-421a-921f-d244bfe6734c)
+
 Count plots were used to explore categorical variables and their relationships with the target.
 Heatmaps and cross-tabulations helped identify associations between key variables like wellness_program, obs_consequence, and treatment.
 
