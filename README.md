@@ -45,5 +45,6 @@ Feature importance analysis revealed that Age, Family History, Care Options, Cou
 ![Image](https://github.com/user-attachments/assets/22922ec2-b69a-43ea-96d6-45f69c7154a2)
 
 A single tree from the Random Forest was visualized to enhance model interpretability.
+![Image](https://github.com/user-attachments/assets/a0e2d5ef-e4c9-48de-bcc0-81f876799304)
 
 Predictions were saved to a CSV file for downstream business applications.
