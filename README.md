@@ -35,7 +35,7 @@ Count plots were used to explore categorical variables and their relationships w
 
 Heatmaps and cross-tabulations helped identify associations between key variables like wellness_program, obs_consequence, and treatment.
 
-
+![Image](https://github.com/user-attachments/assets/5a5bb4ae-0891-4ba5-aac8-60dc80f9a0b0)
 
 🤖 Model Building and Evaluation
 Multiple classification models were trained including:
